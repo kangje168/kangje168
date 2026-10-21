@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kangje168
-- 👀 I’m interested in Python-made programs
-- 🌱 I’m currently learning node.js and all other js
-- 💞️ I’m looking to collaborate on data management
+- 👀 I’m interested in AI programs
+- 🌱 I’m currently learning business strategy and thier AI integretion
+- 💞️ I’m looking to collaborate on any AI program
 - 📫 How to reach me 2001hikasato@gmail.com
 
 <!---
